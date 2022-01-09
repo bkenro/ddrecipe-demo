@@ -1,0 +1,14 @@
+/vendor/
+/config/
+.editorconfig
+.gitattributes
+web/.*
+web/*.php
+web/*.txt
+web/web.config
+web/*.md
+web/example.gitignore
+web/core
+web/modules
+web/sites
+web/themes

@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 9657a78f-b179-4cf4-b12d-a524e837cce5
+  default_langcode: ja
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: sample.jpg
+  uri:
+    -
+      value: 'public://2022-01/sample.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 3300373
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1641610499

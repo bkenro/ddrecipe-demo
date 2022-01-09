@@ -1,0 +1,70 @@
+name: DDRecipe
+type: profile
+description: 'Drupal Delicious Recipes install profile sample.'
+core_version_requirement: '^9'
+version: 1.0.0
+distribution:
+  name: DDRecipe
+  langcode: ja
+install:
+  - admin_toolbar
+  - admin_toolbar_tools
+  - automated_cron
+  - big_pipe
+  - block
+  - block_content
+  - breakpoint
+  - ckeditor
+  - color
+  - comment
+  - config
+  - contact
+  - contextual
+  - datetime
+  - dblog
+  - default_content
+  - dynamic_page_cache
+  - editor
+  - field
+  - field_ui
+  - file
+  - filter
+  - help
+  - history
+  - image
+  - language
+  - link
+  - locale
+  - menu_link_content
+  - menu_ui
+  - node
+  - options
+  - page_cache
+  - path
+  - path_alias
+  - rdf
+  - search
+  - shortcut
+  - system
+  - taxonomy
+  - text
+  - toolbar
+  - tour
+  - update
+  - user
+  - views_ui
+  - views
+themes:
+  - bartik
+  - seven
+  - olivero
+default_content:
+  node:
+    - 56469e5f-b7bc-491f-ac56-5cf3e241b5c4
+  file:
+    - 9657a78f-b179-4cf4-b12d-a524e837cce5
+  menu_link_content:
+    - 377fe22b-1463-408b-8804-c601992f87b9
+  block_content:
+    - ceb6b542-d0c7-4a02-9ad0-7095f4adf62a
+

@@ -1,0 +1,38 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: 377fe22b-1463-408b-8804-c601992f87b9
+  bundle: menu_link_content
+  default_langcode: ja
+  depends:
+    56469e5f-b7bc-491f-ac56-5cf3e241b5c4: node
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: ようこそ！
+  menu_name:
+    -
+      value: main
+  link:
+    -
+      target_uuid: 56469e5f-b7bc-491f-ac56-5cf3e241b5c4
+      title: ''
+      options: {  }
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: false
+  weight:
+    -
+      value: 0
+  expanded:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
