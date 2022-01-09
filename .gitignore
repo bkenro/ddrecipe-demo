@@ -2,7 +2,6 @@
 /config/
 .editorconfig
 .gitattributes
-.gitignore
 web/.*
 web/*.php
 web/*.txt
