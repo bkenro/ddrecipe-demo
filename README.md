@@ -6,7 +6,7 @@
 $ git clone https://github.com/bkenro/ddrecipe-demo.git demo
 $ composer -n install
 $ drush @local sql:create -y
-$ drush @local site:install -y
+$ drush @local site:install ddrecipe -y
 ```
 
 使用例はこちらの動画をご覧ください:
