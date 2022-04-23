@@ -1,10 +1,6 @@
 langcode: ja
 status: true
 dependencies:
-  content:
-    - 'block_content:basic:ceb6b542-d0c7-4a02-9ad0-7095f4adf62a'
-  module:
-    - block_content
   theme:
     - olivero
 id: example_block

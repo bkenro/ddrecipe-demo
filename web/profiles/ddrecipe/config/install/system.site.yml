@@ -1,6 +1,6 @@
 langcode: ja
 name: 'DEMO site'
-mail: webmaster@synergyquest.jp
+mail: admin@example.com
 slogan: ''
 page:
   403: ''
