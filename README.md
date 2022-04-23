@@ -4,6 +4,7 @@
 
 ```bash
 $ git clone https://github.com/bkenro/ddrecipe-demo.git demo
+$ cd demo
 $ composer -n install
 $ drush @local sql:create -y
 $ drush @local site:install ddrecipe -y
